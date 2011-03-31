@@ -36,13 +36,17 @@
         <item>See all your apps.\n
         Touch the Launcher icon. @drawable/all_apps</item>
 
-        <!-- Tip: How to survive in CyanogenMod. -->
-        <item>Rules\n
-        The only rule of CyanogenMod: You dont ask for ETAs.</item>
+        <!-- Welcome to GreenRomProject -->
+        <item>GRP would like to invite you to join us\n
+        GRP lives at http://greenromproject.com</item>
 
-	<!-- Tip: How to get nightly builds. -->
-	<item>Nightly Builds (Advanced)\n
-	Available on ROM Manager. Do not submit issues on Google Code for these. @drawable/rommanager</item>
+		<!-- GRP github -->
+		<item>GRP apps are open source\n
+		https://github.com/greenromproject @drawable/grp</item>
+		
+		<!-- CyanogenMod Notice -->
+		<item>GRP is, for now, CyanogenMod based\n
+		github.com/CyanogenMod/android.git -b gingerbread</item>
 
         <!-- Tip: Longpress in Launcher (all apps) to drag apps to the home screen. -->
         <item>Drag apps to your Home screen.\n
